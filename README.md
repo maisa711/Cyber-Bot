@@ -13,4 +13,4 @@ you can open web pages by typing/telling the robot: open something.com (for exam
 you can take a picture and it will be saved under the name "pic.jpg" in Cyber Bot's folder and you can do it by typing/telling the robot: either camera or take a picture or picture.
 
 
-<b>install requires libraries such as: gtts, speech_recognition, mutagen.mp3, re, urllib, opencv-python and wikipedia.</b>
+<b> To install the required libraries press file named install_lib.cmd</b>
