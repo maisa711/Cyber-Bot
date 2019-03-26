@@ -2,7 +2,7 @@
 
 
 
-Cyber Bot doesn't only answer your questions but it also has several functions:
+Cyber Bot's functions:
 
 you can play videos on YouTube by simply typing/telling the robot: play something (for example play bohemian rhapsody) and it will play the first clip that it finds on YouTube.
 
